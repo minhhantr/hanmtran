@@ -5,7 +5,7 @@
 }
 @font-face {
     font-family: Roboto;
-    src: url(fonts/Roboto-Black.ttf);
+    src: url(fonts/Roboto-Medium.ttf);
 }
 @font-face {
     font-family: Noodle;
@@ -13,7 +13,7 @@
 }
 @font-face {
     font-family: AandC;
-    src: url(fonts/aliens and cows_trial.ttf);
+    src: url(fonts/aliens_and_cows_trial.ttf);
 }
 body{
     
