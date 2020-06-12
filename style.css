@@ -1,19 +1,19 @@
   
 @font-face {
     font-family: Lemon;
-    src: url(LEMONMILK-Bold.otf);
+    src: url(fonts/lemon_milk/LEMONMILK-Bold.otf);
 }
 @font-face {
     font-family: Roboto;
-    src: url(Roboto-Medium.ttf);
+    src: url(fonts/roboto/Roboto-Medium.ttf);
 }
 @font-face {
     font-family: Noodle;
-    src: url(big_noodle_titling.ttf);
+    src: url(fonts/bignoodletitling/big_noodle_titling.ttf);
 }
 @font-face {
     font-family: AandC;
-    src: url(aliens and cows_trial.ttf);
+    src: url(fonts/aliens_and_cows/aliens and cows_trial.ttf);
 }
 body{
     
