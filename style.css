@@ -1,42 +1,50 @@
   
 @font-face {
-    font-family: Dreams;
-    src: url(fonts/CaviarDreams.ttf);
+    font-family: Lemon;
+    src: url(fonts/LEMONMILK-Bold.otf);
 }
 @font-face {
-    font-family: Quicksand;
-    src: url(fonts/Quicksand_Book.otf);
+    font-family: Roboto;
+    src: url(fonts/Roboto-Black.ttf);
+}
+@font-face {
+    font-family: Noodle;
+    src: url(fonts/big_noodle_titling.ttf);
+}
+@font-face {
+    font-family: AandC;
+    src: url(fonts/aliens and cows_trial.ttf);
 }
 body{
-    background-image: url(images/wave.jpg);
-    background-color: #98b4e0;
+    
+    background-color: #aeb8ba;
     background-size: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
     color:black;
 }
 h1{
-    font-family: "Dreams", sans-serif;
+    font-family: "Lemon", sans-serif;
     text-align: center;
 }
 h2{
-    font-family: "Dreams", sans-serif;
+    font-family: "Lemon", sans-serif;
     text-align: center;
 }
 h3{
-    font-family: "Dreams", sans-serif;
+    font-family: "Lemon", sans-serif;
     text-align: center;
 }
 h4{
-    font-family: "Dreams", sans-serif;
+    font-family: "Lemon", sans-serif;
     text-align: center;
 }
 h5{
-    font-family: "Dreams", sans-serif;
+    font-family: "Lemon", sans-serif;
     text-align: center;
 }
 p{
-    font-family: "Quicksand", sans-serif;
+    font-family: "Roboto", sans-serif;
     text-align: center;
 }
 #nav {
@@ -44,40 +52,40 @@ p{
     margin: -8px;
     padding: 0;
     overflow: hidden;
-    background-color: #bcd9ff;
+    background-color: #2e2f2f;
 }
 #nav li {
     float: right;
 }
 #nav li a {
     display: block;
-    color: #8e3030;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 #nav li a:hover {
-    background-color: #073b8e;
-    color: white;
+    background-color: white;
+    color: black;
 }
 #nav li a:active {
-    background-color: white;
-    color:black;
+    background-color: #2e2f2f;
+    color:white;
 }
 ul{
-    font-family: "Quicksand", sans-serif;
+    font-family: "Roboto", sans-serif;
     text-align: center;
 }
 ol{
-    font-family: "Quicksand", sans-serif;
+    font-family: "Roboto", sans-serif;
     text-align: center;
 }
 table{
-    font-family: "Quicksand", sans-serif;
+    font-family: "Roboto", sans-serif;
     text-align: center;
     margin:auto;
 }
-#bts {
+#pic {
     border: solid white 3px;
     margin: 50px;
     padding: 75px;
@@ -99,36 +107,6 @@ table{
     margin: auto;
 }
 #contact{
-    width: 300px;
-    text-align: left;
-    margin: auto;
-}
-#nav1 {
-    list-style-type: none;
-    margin: -8px;
-    padding: 0;
-    overflow: hidden;
-    background-color: #c0dfe8;
-}
-#nav1 li {
-    float: center;
-}
-#nav1 li a {
-    display: block;
-    color: #9c9d9e;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-#nav1 li a:hover {
-    background-color: #8ebecc;
-    color: white;
-}
-#nav1 li a:active {
-    background-color: white;
-    color:black;
-}
-#nav1{
     width: 300px;
     text-align: left;
     margin: auto;
